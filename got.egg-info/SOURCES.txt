@@ -1,6 +1,7 @@
 README.rst
 setup.py
 got/__init__.py
+got/got.py
 got.egg-info/PKG-INFO
 got.egg-info/SOURCES.txt
 got.egg-info/dependency_links.txt
